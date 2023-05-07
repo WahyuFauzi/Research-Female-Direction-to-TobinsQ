@@ -1,0 +1,31 @@
+OLS
+
+1.
+Before Outliers
+Direksi Perempuan (X), Nilai Pasar + liabilitas/Total Aset (Y) = t -0.592, p 0.555 (tidak lulus hetero, skew 6.5)
+
+After Outliers
+Direksi Perempuan (X), Nilai Pasar + liabilitas/Total Aset (Y) = t 0.372, p 0.711 (lulus hetero, skew 0.56)
+
+2.
+Before Outliers
+Proporsi Perempuan (X), Nilai Pasar + liabilitas/Total Aset (Y) = t -0.201, p 0.841 (lulus hetero, skew 6.5)
+
+After Outliers
+Proporsi Perempuan (X), Nilai Pasar + liabilitas/Total Aset (Y) = t 0.33, p 0.742 (lulus hetero, skew 0.62)
+
+3.
+Before Outliers
+Direksi Perempuan (X), Nilai Pasar/Total Aset (Y) = t -0.797, p 0.428 (tidak lulus hetero, skew 6.48)
+
+After Outliers
+Direksi Perempuan (X), Nilai Pasar/Total Aset (Y) = t 0.902, p 0.369 (lulus hetero, skew 1.09)
+
+4.
+Before Outliers
+Proporsi Perempuan (X), Nilai Pasar/Total Aset (Y) = t -0.338, p 0.736 (lulus hetero, skew 6.49)
+
+After Outliers
+Proporsi Perempuan (X), Nilai Pasar/Total Aset (Y) = t 0.262, p 0.794 (lulus hetero, skew 1.1)
+
+* coba hilangkan data X dengan nilai 0
